@@ -1,0 +1,125 @@
+2026-03-03 07:19:30,108 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:30,110 - INFO - No history file found - starting with empty history
+2026-03-03 07:19:30,110 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:30,111 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:30,111 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:30,118 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:30,119 - INFO - No history file found - starting with empty history
+2026-03-03 07:19:30,120 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:30,120 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:30,120 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:30,132 - INFO - Empty history saved
+2026-03-03 07:19:30,138 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:30,144 - INFO - Loaded empty history file
+2026-03-03 07:19:30,144 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:30,144 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:30,145 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:30,145 - INFO - Set operation: Addition
+2026-03-03 07:19:30,146 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 07:19:30,150 - INFO - History saved successfully to /mnt/user-data/outputs/module5_solution/test_history/test_history.csv
+2026-03-03 07:19:38,545 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:38,551 - INFO - Loaded 1 calculations from history
+2026-03-03 07:19:38,551 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:38,551 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:38,552 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:38,557 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:38,561 - INFO - Loaded 1 calculations from history
+2026-03-03 07:19:38,561 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:38,593 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:38,594 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:38,604 - INFO - History saved successfully to /mnt/user-data/outputs/module5_solution/test_history/test_history.csv
+2026-03-03 07:19:38,609 - INFO - Logging initialized at: /mnt/user-data/outputs/module5_solution/test_logs/test_log.log
+2026-03-03 07:19:38,613 - INFO - Loaded 1 calculations from history
+2026-03-03 07:19:38,614 - INFO - Calculator initialized with configuration
+2026-03-03 07:19:38,614 - INFO - Added observer: LoggingObserver
+2026-03-03 07:19:38,614 - INFO - Added observer: AutoSaveObserver
+2026-03-03 07:19:38,615 - INFO - Set operation: Addition
+2026-03-03 07:19:38,615 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 07:19:38,620 - INFO - History saved successfully to /mnt/user-data/outputs/module5_solution/test_history/test_history.csv
+2026-03-03 07:19:38,713 - INFO - History auto-saved
+2026-03-03 02:56:03,058 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 02:56:03,061 - INFO - Loaded 2 calculations from history
+2026-03-03 02:56:03,061 - INFO - Calculator initialized with configuration
+2026-03-03 02:56:03,061 - INFO - Added observer: LoggingObserver
+2026-03-03 02:56:03,061 - INFO - Added observer: AutoSaveObserver
+2026-03-03 02:56:03,063 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 02:56:03,065 - INFO - Loaded 2 calculations from history
+2026-03-03 02:56:03,065 - INFO - Calculator initialized with configuration
+2026-03-03 02:56:03,065 - INFO - Added observer: LoggingObserver
+2026-03-03 02:56:03,065 - INFO - Added observer: AutoSaveObserver
+2026-03-03 02:56:03,068 - INFO - History saved successfully to /home/pavan/projects/assignment-5/test_history/test_history.csv
+2026-03-03 02:56:03,072 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 02:56:03,074 - INFO - Loaded 2 calculations from history
+2026-03-03 02:56:03,074 - INFO - Calculator initialized with configuration
+2026-03-03 02:56:03,074 - INFO - Added observer: LoggingObserver
+2026-03-03 02:56:03,074 - INFO - Added observer: AutoSaveObserver
+2026-03-03 02:56:03,075 - INFO - Set operation: Addition
+2026-03-03 02:56:03,075 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 02:56:03,076 - INFO - History saved successfully to /home/pavan/projects/assignment-5/test_history/test_history.csv
+2026-03-03 02:56:03,112 - INFO - History auto-saved
+2026-03-03 03:01:04,999 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:05,000 - ERROR - Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,000 - WARNING - Could not load existing history: Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,000 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:05,000 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:05,000 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:05,003 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:05,003 - ERROR - Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,003 - WARNING - Could not load existing history: Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,003 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:05,003 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:05,003 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:05,004 - ERROR - Failed to save history: DataFrame.__init__() got an unexpected keyword argument 'columns'
+2026-03-03 03:01:05,006 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:05,006 - ERROR - Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,006 - WARNING - Could not load existing history: Failed to load history: 'DataFrame' object has no attribute 'empty'
+2026-03-03 03:01:05,006 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:05,006 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:05,006 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:05,007 - INFO - Set operation: Addition
+2026-03-03 03:01:05,007 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 03:01:05,007 - INFO - History saved successfully to /home/pavan/projects/assignment-5/test_history/test_history.csv
+2026-03-03 03:01:05,016 - ERROR - Fatal error in calculator REPL: boom
+2026-03-03 03:01:05,052 - INFO - History auto-saved
+2026-03-03 03:01:30,982 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:30,982 - INFO - Loaded empty history file
+2026-03-03 03:01:30,982 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:30,982 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:30,982 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:30,985 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:30,985 - INFO - Loaded empty history file
+2026-03-03 03:01:30,985 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:30,986 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:30,986 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:30,986 - INFO - Empty history saved
+2026-03-03 03:01:30,988 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:30,989 - INFO - Loaded empty history file
+2026-03-03 03:01:30,989 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:30,989 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:30,989 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:30,989 - INFO - Set operation: Addition
+2026-03-03 03:01:30,989 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 03:01:30,990 - INFO - History saved successfully to /home/pavan/projects/assignment-5/test_history/test_history.csv
+2026-03-03 03:01:31,000 - ERROR - Fatal error in calculator REPL: boom
+2026-03-03 03:01:31,038 - INFO - History auto-saved
+2026-03-03 03:01:41,309 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:41,310 - INFO - Loaded empty history file
+2026-03-03 03:01:41,310 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:41,310 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:41,310 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:41,313 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:41,313 - INFO - Loaded empty history file
+2026-03-03 03:01:41,313 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:41,313 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:41,313 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:41,314 - INFO - Empty history saved
+2026-03-03 03:01:41,316 - INFO - Logging initialized at: /home/pavan/projects/assignment-5/test_logs/test_log.log
+2026-03-03 03:01:41,316 - INFO - Loaded empty history file
+2026-03-03 03:01:41,316 - INFO - Calculator initialized with configuration
+2026-03-03 03:01:41,317 - INFO - Added observer: LoggingObserver
+2026-03-03 03:01:41,317 - INFO - Added observer: AutoSaveObserver
+2026-03-03 03:01:41,317 - INFO - Set operation: Addition
+2026-03-03 03:01:41,317 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-03-03 03:01:41,317 - INFO - History saved successfully to /home/pavan/projects/assignment-5/test_history/test_history.csv
+2026-03-03 03:01:41,327 - ERROR - Fatal error in calculator REPL: boom
+2026-03-03 03:01:41,375 - INFO - History auto-saved
